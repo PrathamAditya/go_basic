@@ -7,6 +7,7 @@ package main
 import "fmt"
 
 // entry point of the app
-func main() {
+func main() 
+{
     fmt.Println("Hey devoops!")
 } 
