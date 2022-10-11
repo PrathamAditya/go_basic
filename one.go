@@ -9,5 +9,5 @@ import "fmt"
 // entry point of the app
 func main() 
 {
-    fmt.Println("Hey devoops!")
+    fmt.Println("Hey devops!")
 } 
